@@ -20,3 +20,8 @@ The chatbot maintains conversation history and responds intelligently in real ti
 - LangChain
 - Groq API
 - LLaMA 3.3 (70B)
+
+
+# Author:
+ Muzammil Rehman <br>
+ Student of Artificial Intelligence
